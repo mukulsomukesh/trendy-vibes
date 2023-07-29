@@ -1,5 +1,5 @@
 # TRENDY VIBES - Clone 
-<a href="https://trendy-vibes-imdebabrata-imdebabrata.vercel.app/"> Want to see live preview  </a>
+<a href="https://velvety-heliotrope-01b838.netlify.app/"> Want to see live preview  </a>
 
 ## What is NNNOW?
 As you might have seen https://www.nnnow.com/, It is an online portal with a very large collection of cosmetics, skincare, hair care & fragrances. It showcases some of the best products from the leading brands in the world at the best price.
